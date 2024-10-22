@@ -30,13 +30,8 @@ This project performs **Sentiment Analysis** on Google reviews using **Natural L
     git clone https://github.com/yourusername/sentiment-analysis-google-reviews.git
     cd sentiment-analysis-google-reviews
     ```
-
-2. Install required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Download the dataset (Google Reviews) using:
+    
+2. Download the dataset (Google Reviews) using:
     ```python
     import gdown
     file_url = 'https://drive.google.com/uc?id=1FZXoO3-sfFBol2UbQWtvaXDmaQZ0ZgkD'
